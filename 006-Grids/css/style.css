@@ -1,0 +1,12 @@
+.fundo-vermelho, .fundo-azul {
+    height: auto;
+}
+
+
+.fundo-vermelho {
+    background-color: red;
+}
+
+.fundo-azul {
+    background-color: blue;
+}
